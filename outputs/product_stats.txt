@@ -1,0 +1,18 @@
+--- PRODUCT STATS ---
+core.chargeable.exchange: 11480
+core.chargeable.advancemailsec: 11544
+core.chargeable.owa: 64
+core.chargeable.outlook: 200
+core.chargeable.sp1gb: 370
+core.chargeable.encrygateway: 422
+core.chargeable.resource: 21
+core.chargeable.activesync: 61
+core.chargeable.addspspace: 29000
+core.chargeable.archivemailbox: 707
+core.chargeable.encrymsg: 27
+core.chargeable.comdisclaimsvcs: 1
+core.chargeable.sp10gb: 1
+core.chargeable.addbackupspace: 5000
+core.chargeable.sharesync2gbuser: 3
+core.chargeable.addowaspace: 210000
+core.chargeable.addpubfolder: 1
